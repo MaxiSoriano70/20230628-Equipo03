@@ -1,3 +1,4 @@
 -Maximiliano Soriano
 -Ana Carolina Gonzalez Alzate
--Beatriz Giraldo 
+-Beatriz Giraldo
+-Zabdiel Silvestre 
